@@ -4,7 +4,7 @@ import pandas
 st.set_page_config(layout="wide")
 col1,col2=st.columns(2)
 with col1:
-    st.image("images/daksh.jpg",width=600)
+    st.image("images/daksh.jpg",width=400)
 with col2:
     st.title("Daksh Goyal")
     content=("Hi, I am Daksh. I am a python programmer and a student. I will graduate in 2025 from Thapar institute of Engineering"
