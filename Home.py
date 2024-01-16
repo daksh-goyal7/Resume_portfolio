@@ -10,7 +10,7 @@ with col2:
     content=("Hi, I am Daksh. I am a python programmer and a student. I will graduate in 2025 from Thapar institute of Engineering"
              " & Technology."
              " I am currently pursuing my Bachelor's of Engineering degree in field of Electronics & Communication Engineering."
-            "Education:"
+            "                         Education:"
             "Sita Grammar School, Malerkotla : 10th(CBSE board 91.8%)"
             "Sohrab Public School, Malerkotla : 12th(CBSE board 87%)"
             "Jee Mains Percentile: 93")
