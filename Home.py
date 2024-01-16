@@ -11,7 +11,7 @@ with col2:
              " & Technology."
              " I am currently pursuing my Bachelor's of Engineering degree in field of Electronics & Communication Engineering."
             "Education:"
-            "Sita Grammar School, Malerkotla : 10th(CBSE board 91.8%)"+\n
+            "Sita Grammar School, Malerkotla : 10th(CBSE board 91.8%) \n"
             "Sohrab Public School, Malerkotla : 12th(CBSE board 87%)"
             "Jee Mains Percentile: 93")
     st.info(content)
