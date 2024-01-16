@@ -9,7 +9,11 @@ with col2:
     st.title("Daksh Goyal")
     content=("Hi, I am Daksh. I am a python programmer and a student. I will graduate in 2025 from Thapar institute of Engineering"
              " & Technology."
-             " I am currently pursuing my Bachelor's of Engineering degree in field of Electronics & Communication Engineering.")
+             " I am currently pursuing my Bachelor's of Engineering degree in field of Electronics & Communication Engineering."
+            "Education:"
+            "Sita Grammar School, Malerkotla : 10th(CBSE board 91.8%)"
+            "Sohrab Public School, Malerkotla : 12th(CBSE board 87%)"
+            "Jee Mains Percentile: 93")
     st.info(content)
 content2="""Below you can find some of the apps I have built in python. Feel free to contact me."""
 st.write(content2)
