@@ -24,11 +24,9 @@ with col3:
         st.header(rows["title"])
         st.write(rows["description"])
         st.image("images/"+rows["image"])
-        st.write("[Source Code](https://pythonhow.com)")
 
 with col4:
     for index,rows in df[10:].iterrows():
         st.header(rows["title"])
         st.write(rows["description"])
         st.image("images/"+rows["image"])
-        st.write("[Source Code](https://pythonhow.com)")
